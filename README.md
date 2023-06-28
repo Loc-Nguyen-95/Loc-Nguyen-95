@@ -1,6 +1,5 @@
+### Hi there 👋
 <!--
-**Loc-Nguyen-95/Loc-Nguyen-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![full stack developer](https://uploads-ssl.webflow.com/5e4c6b4b7ed0a2e77458ce3d/6373f6397fb5f7364ac0ed82_3hx2kiiU9klz39CdqLJPk56nplO_K8mB5mS_1e6uC7q8al2951s6-z69pZ7rBZcVSMGk0qtkU4UVak9fdKCLoX72lSvrSBsApqw-k3224ldswq81p9NhpRLKWV-RbfhkZewDK5gFBNdoVzSCF-CsQyQ7B-to-Mrzw0A26SKnXeYFFs9cw0beafhYzbiuIQ.png)
-### Hi there 👋
+![full stack developer]([https://uploads-ssl.webflow.com/5e4c6b4b7ed0a2e77458ce3d/6373f6397fb5f7364ac0ed82_3hx2kiiU9klz39CdqLJPk56nplO_K8mB5mS_1e6uC7q8al2951s6-z69pZ7rBZcVSMGk0qtkU4UVak9fdKCLoX72lSvrSBsApqw-k3224ldswq81p9NhpRLKWV-RbfhkZewDK5gFBNdoVzSCF-CsQyQ7B-to-Mrzw0A26SKnXeYFFs9cw0beafhYzbiuIQ.png](https://qph.fs.quoracdn.net/main-qimg-efbd1fe9111c6e3fb4f01408cb894a3d)https://qph.fs.quoracdn.net/main-qimg-efbd1fe9111c6e3fb4f01408cb894a3d)
+
