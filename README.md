@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Loc
-
-(https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2019/01/09013537/full-stack-developer.svg)
+[full stack developer](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2019/01/09013537/full-stack-developer.svg)
