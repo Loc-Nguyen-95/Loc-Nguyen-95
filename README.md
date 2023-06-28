@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![full stack developer](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2019/01/09013537/full-stack-developer.svg)
+![full stack developer](https://uploads-ssl.webflow.com/5e4c6b4b7ed0a2e77458ce3d/6373f6397fb5f7364ac0ed82_3hx2kiiU9klz39CdqLJPk56nplO_K8mB5mS_1e6uC7q8al2951s6-z69pZ7rBZcVSMGk0qtkU4UVak9fdKCLoX72lSvrSBsApqw-k3224ldswq81p9NhpRLKWV-RbfhkZewDK5gFBNdoVzSCF-CsQyQ7B-to-Mrzw0A26SKnXeYFFs9cw0beafhYzbiuIQ.png)
