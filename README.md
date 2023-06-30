@@ -1,4 +1,5 @@
 ### Hi there 👋
+`For every branch of Repository -> read README.md` 💬
 <!--
 Here are some ideas to get you started:
 
