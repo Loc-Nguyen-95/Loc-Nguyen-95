@@ -1,10 +1,8 @@
 ![full stack developer](https://qph.fs.quoracdn.net/main-qimg-efbd1fe9111c6e3fb4f01408cb894a3d)
 
-<h1 align="center">Hi there, I'm Christian 👋</h1>
+<h1 align="center">Hi there, I'm Loc 👋</h1>
 
-<a href="https://www.buymeacoffee.com/crelies">Buy me a ☕ coffee</a> if you want to <b>support</b> me 😎
-
-- 🔭 I’m currently <b>working</b> on &#8226;&#8226;&#8226; (<i>can't say right now</i>)
+- 🔭 I’m currently <b>learning</b> on &#8226;&#8226;&#8226; (<i>....</i>)
 - 🌱 I’m currently <b>working with</b> ```TheComposableArchitecture```
 - 👯 I’m looking to <b>collaborate</b> on ```open source projects```
 - 📫 How to <b>reach me:</b> <a href="https://christianelies.de" target="_blank">Web</a> | <a href="mailto:crelies@icloud.com" target="_blank">Mail</a>
