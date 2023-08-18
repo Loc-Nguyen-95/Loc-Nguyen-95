@@ -10,7 +10,7 @@
   <summary><b>Public Key</b></summary>
   
   <pre>
-  -----ABC-----
+    abc
   </pre>
   </details>
 
