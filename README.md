@@ -9,8 +9,7 @@
   <details>
   <summary><b>Public Key</b></summary>
   
-  <pre>
-    abc
+  <pre>  
   </pre>
   </details>
 
