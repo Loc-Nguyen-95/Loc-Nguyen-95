@@ -1,26 +1,42 @@
-![full stack developer](https://qph.fs.quoracdn.net/main-qimg-efbd1fe9111c6e3fb4f01408cb894a3d)
-
-<h1 align="center">Hi there, I'm Loc 👋</h1>
-
-- 🔭 I’m currently <b>learning</b> on &#8226;&#8226;&#8226; (<i>....</i>)
-- 🌱 I’m currently <b>working with</b> ```TheComposableArchitecture```
-- 👯 I’m looking to <b>collaborate</b> on ```open source projects```
-- 📫 How to <b>reach me:</b> <a href="https://christianelies.de" target="_blank">Web</a> | <a href="mailto:crelies@icloud.com" target="_blank">Mail</a>
-  <details>
-  <summary><b>Public Key</b></summary>
+<p align="center"> <h1 align="center"> Phuc Loc </h1> </p>
+<p align="center">
   
-  <pre>  
-  </pre>
-  </details>
+<a href="https://github.com/elangosundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://twitter.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://elangovan.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+</p>
 
-- ⚡ <b>Fun fact:</b> I started with ```Microsoft Windows``` when I was very young 😛
-- 🎁 <b>My AppStore apps:</b>
-  - <a href="https://apps.apple.com/us/app/voucherlist/id1453582942">VoucherList</a> (iOS + iPadOS, macOS & tvOS; <b>uses my Swift packages:</b> <a href="https://github.com/crelies/AdvancedList">AdvancedList</a> & <a href="https://github.com/crelies/Media">Media</a>)
+I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-- ✍️ <b>My blog posts:</b>
-  - <a href="https://christianelies.de/posts/viper-architecture">VIPER 🐍 Architecture Evolution for iOS</a>
-  - <a href="https://christianelies.de/posts/swiftui-basics">Learn & Master ⚔️ SwiftUI basic components in 10 minutes</a>
-  - <a href="https://christianelies.de/posts/advanced-lists">Meet & Greet — Advanced Lists in SwiftUI</a>
-  - <a href="https://christianelies.de/posts/type-erasure">Learn & Master ⚔️ Type Erasure in 6 Minutes</a>
-  - <a href="https://christianelies.de/posts/remote-image-view">Learn and Master Remote Image View in SwiftUI</a>
-  - <a href="https://christianelies.de/posts/list-pagination">Meet & Greet - List Pagination in SwiftUI</a>
+🔭 I’m currently working on opensource project [CodingAi](https://github.com/10secondsofcode/coding-ai) and [Postlify](https://github.com/elangosundar/postlify)
+
+👯 I’m looking to collaborate on ReactJS / VueJs projects.
+
+🤔 I’m looking for help with supporting my open source projects.
+
+📫 How to reach me:
+
+`Website` - [Elangovan.in](https://elangovan.in)
+
+❤️ Support my open source projects:
+
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/elangosundar)
+
+<!--
+**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
+</p>
