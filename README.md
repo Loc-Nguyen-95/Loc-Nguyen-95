@@ -5,7 +5,7 @@
 	<a href="https://elangovan.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
 </p>
 
-Hi! I'm Loc. I'm a fresher Full Stack Developer who is passionate about making `Open-source Projects`, `creating technology, documentation`, ... to elevate people, and `building community`.
+Hi! I'm Loc. I'm a fresher Full Stack Developer who is passionate about making **Open-source Projects**, creating technology, documentation, ... to elevate people, and **building community**.
 
 🔭 I’m currently working on `Opensource project` [CodingAi](https://github.com/10secondsofcode/coding-ai) and [Postlify](https://github.com/elangosundar/postlify)
 
